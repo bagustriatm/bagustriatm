@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello Fellas!! 👋
+## You can call me *BAGUS* :sunglasses:
+#### Bangkit Graduate 2022 | Final Year Student - Information System Telkom University | Enterprise Data Engineering Laboratory's Event Staff Gen 2 | TOP 120 Innovillage 2021
 
-<!--
-**bagustriatm/bagustriatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You just watching my profile now!!
 
-Here are some ideas to get you started:
+> #### And you know what? we have same vision to make the world be a better place, *cause:*
+:page_facing_up: My current activity is researching how social media users behave by using sentiment analysis.\
+:chart_with_upwards_trend: I’m currently learning to be good at **Data Science** \
+:sparkles: Ask me about My life and i will tell you within a whole night \
+:telephone_receiver: If you wanna be my friends, pwease text me at [My LinkedIn](https://www.linkedin.com/in/bagustriatm/)\
+:sparkles: Pronouns: ... \
+:sparkles: Fun fact: ... \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
