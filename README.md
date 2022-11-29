@@ -18,7 +18,7 @@ You just watching my profile now!!
  -->
 :telephone_receiver: If you wanna be my friends, pwease text me at [My LinkedIn](https://www.linkedin.com/in/bagustriatm/) </br>
 
-# THANKYOU FOR BE HUMBLE 
+# THANKYOU FOR BE HUMBLE  :sparkles: :sparkles:
 
 <img src="images/photo_2022-11-30_00-14-42.jpg" alt="go" width="255px"/>
 
