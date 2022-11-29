@@ -1,6 +1,6 @@
 Hello Fellas!! 👋
 ## You can call me *BAGUS* :sunglasses:
-![ ](images/photo_2022-11-29_23-48-17.jpg)
+<img src="images/lu.jpg" alt="go" width="75px"/>
 #### Bangkit Graduate 2022 | Final Year Student - Information System Telkom University | Enterprise Data Engineering Laboratory's Event Staff Gen 2 | TOP 120 Innovillage 2021
 
 You just watching my profile now!!
